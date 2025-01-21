@@ -1,0 +1,13 @@
+/home/nekekado/Projects/Infotecs/build/test/CMakeFiles/edit_cache.dir
+/home/nekekado/Projects/Infotecs/build/test/CMakeFiles/rebuild_cache.dir
+/home/nekekado/Projects/Infotecs/build/test/ProgramTwo/CMakeFiles/ProgramTwo.dir
+/home/nekekado/Projects/Infotecs/build/test/ProgramTwo/CMakeFiles/edit_cache.dir
+/home/nekekado/Projects/Infotecs/build/test/ProgramTwo/CMakeFiles/rebuild_cache.dir
+/home/nekekado/Projects/Infotecs/build/test/ProgramOne/CMakeFiles/ProgramOne.dir
+/home/nekekado/Projects/Infotecs/build/test/ProgramOne/CMakeFiles/edit_cache.dir
+/home/nekekado/Projects/Infotecs/build/test/ProgramOne/CMakeFiles/rebuild_cache.dir
+/home/nekekado/Projects/Infotecs/build/test/Library/CMakeFiles/MyLib.dir
+/home/nekekado/Projects/Infotecs/build/test/Library/CMakeFiles/edit_cache.dir
+/home/nekekado/Projects/Infotecs/build/test/Library/CMakeFiles/rebuild_cache.dir
+/home/nekekado/Projects/Infotecs/build/test/data/CMakeFiles/edit_cache.dir
+/home/nekekado/Projects/Infotecs/build/test/data/CMakeFiles/rebuild_cache.dir

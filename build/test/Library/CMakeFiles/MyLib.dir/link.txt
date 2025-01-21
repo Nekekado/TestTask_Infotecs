@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -finput-charset=UTF-8 -fexec-charset=UTF-8 -Wl,--dependency-file=CMakeFiles/MyLib.dir/link.d -shared -Wl,-soname,libMyLib.so -o libMyLib.so CMakeFiles/MyLib.dir/MyLib.cpp.o
