@@ -1,0 +1,1 @@
+/usr/bin/c++  -finput-charset=UTF-8 -fexec-charset=UTF-8 -Wl,--dependency-file=CMakeFiles/ProgramOne.dir/link.d CMakeFiles/ProgramOne.dir/ProgramOne.cpp.o -o ProgramOne  -Wl,-rpath,/home/nekekado/Projects/Infotecs/build/test/Library ../Library/libMyLib.so
